@@ -6,13 +6,9 @@
 
 #### В результате тестирования выявлены следующие дефекты:
 
-[Ошибка проверки валидного ключа 80b427f8-92cd-3aae-ba04-03927fbe17c6](https://github.com/OlgaMikhaylyukova/homework1.2/issues/1)
+[Валидные ключи считаются невалидными](https://github.com/OlgaMikhaylyukova/homework1.2/issues/1)
 
-[Ошибка проверки валидного ключа 387eedc6-12e9-3b32-9881-63b6b5e85317](https://github.com/OlgaMikhaylyukova/homework1.2/issues/2)
-
-[Ошибка проверки невалидного ключа c19a8cf9-5c3a-37c5-b7f3-d16d38a0c180](https://github.com/OlgaMikhaylyukova/homework1.2/issues/3)
-
-[Ошибка проверки невалидного ключа 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1](https://github.com/OlgaMikhaylyukova/homework1.2/issues/4)
+[Невалидные ключи считаются валидными](https://github.com/OlgaMikhaylyukova/homework1.2/issues/3)
 
 #### Описание процесса тестирования:
 
